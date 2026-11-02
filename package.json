@@ -1,0 +1,32 @@
+{
+  "name": "padmaarc-app",
+  "version": "1.3.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "lint": "next lint",
+    "test": "node scripts/check-client-secrets.mjs",
+    "test:secrets": "node scripts/check-client-secrets.mjs",
+    "test:ratelimit": "node scripts/check-ratelimit.mjs",
+    "check-env": "node scripts/check-env.mjs",
+    "check:backend": "node scripts/check-business-backend.mjs",
+    "seed:users": "node supabase/seed-users.mjs",
+    "screens": "node scripts/capture-screens.mjs"
+  },
+  "dependencies": {
+    "next": "^14.2.25",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.0",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.25",
+    "typescript": "5.5.4"
+  }
+}

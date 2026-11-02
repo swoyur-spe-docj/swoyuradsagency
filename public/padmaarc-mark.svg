@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Padmaarc lotus mark</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 31C14 16 24 8 32 7M54 31C50 16 40 8 32 7" stroke="#84B6A4" stroke-width="2.4"/>
+    <path d="M32 12C21 23 20 37 32 49 44 37 43 23 32 12Z" fill="#0B5548" stroke="#0B5548" stroke-width="1.5"/>
+    <path d="M28 47C18 41 13 33 13 25 23 27 29 34 32 46M36 47C46 41 51 33 51 25 41 27 35 34 32 46" fill="#84B6A4" stroke="#84B6A4" stroke-width="1.5"/>
+    <path d="M7 39C15 37 23 40 30 49 21 53 12 49 7 39ZM57 39C49 37 41 40 34 49 43 53 52 49 57 39Z" fill="#0B5548" stroke="#0B5548" stroke-width="1.5"/>
+  </g>
+</svg>
